@@ -1,2 +1,4 @@
-# Netflix landing page clone
- Netflix landing page clone user interface of netflix on Front-End base with help of HTML ,CSS ,Js
+# Netflix Landing Page Clone
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/bradtraversy/pen/yWPONg](https://codepen.io/bradtraversy/pen/yWPONg).
+
